@@ -14,6 +14,7 @@
 ## Course objective
 
 "Gain an in-depth understanding of some of the major machine learning techniques: its algorithms, theory and application. In the same way, that he becomes familiar, through practice, with the procedure of elaboration of a model."
+
 -[Salvador Marmol](https://github.com/salvadormarmol), Machine Learning course professor
 
 ## Syllabus
