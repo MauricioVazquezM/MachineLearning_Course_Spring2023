@@ -12,6 +12,9 @@
 
 ## Content
 
+- [Naive Bayes Algorithm Implementation](NAIVE-BAYES)
+  - [Naive Bayes Notebook](NAIVE-BAYES/NaiveBayes_notebook.ipynb)
+  - [Naive Bayes Readme](NAIVE-BAYES/README.md)
 
 </br>
 
