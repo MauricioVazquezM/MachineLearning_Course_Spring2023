@@ -1,4 +1,5 @@
 **Summary of Naive Bayes Machine Learning Model**
+
 Naive Bayes is a popular and efficient classification algorithm that falls under the category of supervised machine learning models. It is widely used for tasks like text classification, spam detection, sentiment analysis, and more. The model is based on Bayes' theorem, which is a fundamental concept in probability theory.
 
 
