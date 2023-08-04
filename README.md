@@ -15,7 +15,7 @@
 - [Naive Bayes Algorithm Implementation](NAIVE_BAYES)
   - [Naive Bayes Notebook](NAIVE_BAYES/NaiveBayes_notebook.ipynb)
   - [Naive Bayes Summary](NAIVE_BAYES/README.md)
--[Linear Discriminant Analysis (LDA)](LDA)
+- [Linear Discriminant Analysis (LDA)](LDA)
   - [LDA Notebook](LDA/LDA.ipynb)
   - [LDA Summary](LDA/README.md)
 
