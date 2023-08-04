@@ -8,8 +8,12 @@
 ## Repository Description
 
 
+</br>
+
 ## Content
 
+
+</br>
 
 ## Course objective
 
@@ -17,6 +21,7 @@
 
 -[Salvador Marmol](https://github.com/salvadormarmol), Machine Learning course professor
 
+</br>
 
 ## Syllabus
 
@@ -47,6 +52,7 @@
 - Reinforcement Learning 
   - Deep reinforcement learning
 
+</br>
 
 ## Bibliography
 
