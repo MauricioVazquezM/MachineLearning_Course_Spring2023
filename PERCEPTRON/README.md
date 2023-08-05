@@ -27,8 +27,7 @@ The training process of the Perceptron involves adjusting the weights to minimiz
 **Advantages:**
 
 1. *Simple and Fast:* The Perceptron is computationally efficient and easy to implement, making it a suitable choice for quick classification tasks.
-2. *Online Learning:* It supports online learning, where it can continuously adapt to new data, making it useful for handling streaming data or dynamic environments.
-3. *Binary Classification:* The Perceptron is well-suited for binary classification problems.
+2. *Binary Classification:* The Perceptron is well-suited for binary classification problems.
 
 **Limitations:**
 
