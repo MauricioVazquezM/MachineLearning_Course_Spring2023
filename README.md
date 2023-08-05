@@ -27,6 +27,9 @@
 - [Linear Regression](LINEAR_REGRESSION)
   - [Linear Regression Notebook](LINEAR_REGRESSION/Linear_Regression.ipynb)
   - [Lineas Regression Summary](LINEAR_REGRESSION/README.md)
+- [Support Vector Machine (SVM)](SVM)
+  - [Kernels Notebook](SVM/Kernels.ipynb)
+  - [SVM Summary](SVM/README.md)
 
 </br>
 
