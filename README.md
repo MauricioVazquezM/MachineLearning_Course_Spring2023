@@ -18,6 +18,9 @@
 - [Linear Discriminant Analysis (LDA)](LDA)
   - [LDA Notebook](LDA/LDA.ipynb)
   - [LDA Summary](LDA/README.md)
+- [Perceptron](PERCEPTRON)
+  - [Perceptron Notebook](PERCEPTRON/Perceptron.ipynb)
+  - [Perceptron Summary](PERCEPTRON/README.md)
 
 </br>
 
