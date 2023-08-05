@@ -21,6 +21,9 @@
 - [Perceptron](PERCEPTRON)
   - [Perceptron Notebook](PERCEPTRON/Perceptron.ipynb)
   - [Perceptron Summary](PERCEPTRON/README.md)
+- [Gradient Descent](GRADIENT_DESCENT)
+  - [Gradient Descent Notebook](GRADIENT_DESCENT/Gradient_Descent.ipynb)
+  - [Gradient Descent Summary](GRADIENT_DESCENT/README.md)
 
 </br>
 
