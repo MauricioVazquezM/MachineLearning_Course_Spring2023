@@ -24,6 +24,9 @@
 - [Gradient Descent](GRADIENT_DESCENT)
   - [Gradient Descent Notebook](GRADIENT_DESCENT/Gradient_Descent.ipynb)
   - [Gradient Descent Summary](GRADIENT_DESCENT/README.md)
+- [Linear Regression](LINEAR_REGRESSION)
+  - [Linear Regression Notebook](LINEAR_REGRESSION/Linear_Regression.ipynb)
+  - [Lineas Regression Summary](LINEAR_REGRESSION/README.md)
 
 </br>
 
