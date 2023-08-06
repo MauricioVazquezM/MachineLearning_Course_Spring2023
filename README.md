@@ -30,6 +30,9 @@
 - [Support Vector Machine (SVM)](SVM)
   - [Kernels Notebook](SVM/Kernels.ipynb)
   - [SVM Summary](SVM/README.md)
+- [Neural Network](NEURAL_NETWORK)
+  - [Neural Network Notebook](NEURAL_NETWORK/Neural_Network.ipynb)
+  - [Neural Network Summary](NEURAL_NETWORK/README.md)
 
 </br>
 
