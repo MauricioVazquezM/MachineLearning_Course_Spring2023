@@ -10,7 +10,7 @@
 
 </br>
 
-## Content
+## Repository Content
 
 - [Naive Bayes Algorithm Implementation](NAIVE_BAYES)
   - [Naive Bayes Notebook](NAIVE_BAYES/NaiveBayes_notebook.ipynb)
@@ -44,7 +44,7 @@
 
 </br>
 
-## Syllabus
+## Course Syllabus
 
 - Machine Learning concepts
 - Supervised learning
