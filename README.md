@@ -33,6 +33,9 @@
 - [Neural Network](NEURAL_NETWORK)
   - [Neural Network Notebook](NEURAL_NETWORK/Neural_Network.ipynb)
   - [Neural Network Summary](NEURAL_NETWORK/README.md)
+- [Random Forest](RANDOM_FOREST)
+  - [Random Forest Notebook](RANDOM_FOREST/Random_Forest.ipynb)
+  - [Random Forest Summary](RANDOM_FOREST/README.md)
 
 </br>
 
