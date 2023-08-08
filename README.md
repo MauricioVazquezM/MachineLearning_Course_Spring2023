@@ -36,6 +36,9 @@
 - [Random Forest](RANDOM_FOREST)
   - [Random Forest Notebook](RANDOM_FOREST/Random_Forest.ipynb)
   - [Random Forest Summary](RANDOM_FOREST/README.md)
+- [Clustering](CLUSTERING)
+  - [Optics Notebook](CLUSTERING/Optics.ipynb)
+  - [Optics Summary](CLUSTERING/README.md)
 
 </br>
 
