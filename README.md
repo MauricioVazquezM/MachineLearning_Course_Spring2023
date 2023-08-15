@@ -39,7 +39,10 @@
 - [Clustering](CLUSTERING)
   - [Optics Notebook](CLUSTERING/Optics.ipynb)
   - [Optics Summary](CLUSTERING/README.md)
-
+- [Reinforcement Learning](REINFORCEMENT_LEARNING)
+  - [Centipede Reinforcement Learning Notebook](REINFORCEMENT_LEARNING/Centipede_RL.ipynb)
+  - [Reinforcement Learning Summary](REINFORCEMENT_LEARNING/README.md)
+  
 </br>
 
 ## Course objective
