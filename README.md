@@ -5,7 +5,11 @@
 </p>
 
 
-## Repository Description
+## Team
+
+- [Guillermo Arredondo](https://github.com/guillermoArr), student of a double BS degree in Data Science and Applied Mathematics at ITAM.
+- [Iñaki Fernandez](https://github.com/Inaki-FF), student of a BS degree in Data Science at ITAM.
+- [Mauricio Vazquez](https://github.com/MauricioVazquezM), student of a double BS degree in Data Science and Actuarial Science at ITAM.
 
 
 </br>
