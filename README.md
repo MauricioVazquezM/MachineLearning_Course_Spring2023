@@ -1,7 +1,7 @@
 # MachineLearning_Course_Spring2023
 
 <p align="center">
-<img width="700" height="500" src="https://www.atriainnovation.com/wp-content/uploads/2021/02/portada.jpg">
+<img width="700" height="500" src="https://media.licdn.com/dms/image/D5612AQEkETDtC0Jh1g/article-cover_image-shrink_720_1280/0/1660841086843?e=2147483647&v=beta&t=_A7FqNJByntSeHnT0xCOV-GeF0-LFVIx4VHR3aKurho">
 </p>
 
 
